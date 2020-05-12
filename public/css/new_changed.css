@@ -1,0 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito);@charset "UTF-8";
+
+.show_post{
+    width: 76%;
+    background-color: white;
+    margin: auto;
+    align-content: center;
+}
+
+.profile_pic{
+    max-width: 35px;
+    
+}
